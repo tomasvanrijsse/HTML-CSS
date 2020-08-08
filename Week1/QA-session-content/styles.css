@@ -6,6 +6,7 @@ body {
 #header {
 	background: red;
 	height: 100vh;
+	overflow: auto;
 }
 
 #header h1 {

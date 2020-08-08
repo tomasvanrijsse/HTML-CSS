@@ -1,10 +1,14 @@
 body {
 	background-color: rgb(240,240,240);
+	margin:0;
 	font-family: sans-serif;
 }
 
 #header {
 	background: red;
+	background: url(https://lorempixel.com/1920/1080/cats/);
+	background-size: cover;
+	background-position: center;
 	height: 100vh;
 	overflow: auto;
 }
@@ -12,4 +16,7 @@ body {
 #header h1 {
 	margin-top: 80vh;
 	text-align: center;
-}
+	background-color: rgba(0,0,0,0.4);
+	padding: 10px 0;
+	color: white;
+}

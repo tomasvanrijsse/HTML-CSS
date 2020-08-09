@@ -26,6 +26,7 @@ body {
 }
 
 .block .content {
+	position:relative;
 	padding: 20px;
 }
 
@@ -34,5 +35,7 @@ body {
 }
 
 .block .content p.title {
+	position: absolute;
+	top: -25px;
 	font-size: 35px;
 }

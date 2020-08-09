@@ -20,3 +20,19 @@ body {
 	padding: 10px 0;
 	color: white;
 }
+
+.block {
+	background-color: lightgray;
+}
+
+.block .content {
+	padding: 20px;
+}
+
+.block .content p {
+	margin: 0;
+}
+
+.block .content p.title {
+	font-size: 35px;
+}

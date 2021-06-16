@@ -71,7 +71,7 @@ Make the page look beautiful by adding some more CSS! Include CSS rules for:
 
 After you've finished your todo list it's time to show us what you got! The homework you have to submit this week is the following:
 
-1. GIT exercise #1 (the URL of the remote `git_practice` repository)
+1. GIT exercise #1 (the URL of the remote `hyf-html-exercises` repository)
 2. The Drones website
 
 Go through the [guide](../hand-in-homework-guide.md) to learn how to submit your homework.
